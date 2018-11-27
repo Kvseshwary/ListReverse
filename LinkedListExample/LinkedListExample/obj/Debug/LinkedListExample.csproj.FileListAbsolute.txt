@@ -1,0 +1,5 @@
+E:\PROJECTS\TestProject\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+E:\PROJECTS\TestProject\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+E:\PROJECTS\TestProject\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TestProject\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+E:\PROJECTS\TestProject\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb
